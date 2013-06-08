@@ -1,0 +1,14 @@
+六月 05, 2013 6:46:18 下午 org.apache.coyote.AbstractProtocol init
+資訊: Initializing ProtocolHandler ["http-bio-8080"]
+六月 05, 2013 6:46:18 下午 org.apache.catalina.core.StandardService startInternal
+資訊: Starting service Tomcat
+六月 05, 2013 6:46:18 下午 org.apache.catalina.core.StandardEngine startInternal
+資訊: Starting Servlet Engine: Apache Tomcat/7.0.39
+六月 05, 2013 6:46:18 下午 org.apache.catalina.startup.ContextConfig getDefaultWebXmlFragment
+資訊: No global web.xml found
+六月 05, 2013 6:46:25 下午 org.apache.catalina.startup.TaglibUriRule body
+資訊: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 05, 2013 6:46:25 下午 org.apache.catalina.core.ApplicationContext log
+資訊: No Spring WebApplicationInitializer types detected on classpath
+六月 05, 2013 6:46:26 下午 org.apache.catalina.core.ApplicationContext log
+資訊: Initializing Spring root WebApplicationContext
